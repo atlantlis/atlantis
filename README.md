@@ -1,6 +1,6 @@
 ### Hello, world 👋
 > 
-- 👋 Hi, I’m @atlantlis
+- 👋 Hi, I’m @atlantis
 - 👀 I’m interested in Proyects of Data Scientist 
 - 🌱 I’m currently learning Python, SQL, Looker & Tableau
 - 💞️ I’m looking to collaborate on Projects
