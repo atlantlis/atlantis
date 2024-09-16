@@ -1,8 +1,8 @@
 ### Hello, world 👋
 > 
 - 👋 Hi, I’m @atlantlis
-- 👀 I’m interested in Proyects of Data Scientist 
-- 🌱 I’m currently learning Python, SQL, Looker & Tableau
+- 👀 I’m interested in intelligent artificial 
+- 🌱 I’m currently study 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: @atlantlis
 - 😄 Pronouns: She
